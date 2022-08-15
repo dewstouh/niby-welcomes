@@ -1,6 +1,6 @@
 {
   "name": "niby-welcomes",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Crea bienvenidas personalizables al estilo de otros bots conocidos como Koya, MEE6, Niby..",
   "main": "index.js",
   "scripts": {
