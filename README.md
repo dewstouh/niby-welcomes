@@ -46,8 +46,8 @@
 <!-- ABOUT THE PROJECT -->
 # Características
 
-* 😎 Distintos modos de bienvenida 
-* 🚀 Generación de imagen súper rápida
+* 😎 Alta calidad de imagen
+* 🚀 Generación súper rápida
 * 🔥 Distintos estilos de bienvenidas
 * ✅ Super fácil de utilizar
 
@@ -64,7 +64,7 @@ npm i niby-welcomes
 ## Uso
 ### Imagen de Bienvenida
 ```JS
-const {Welcomes, Leaves} = require("niby-welcomes")
+const {Welcome} = require("niby-welcomes")
 const Discord = require("discord.js")
 
 module.exports = client => {
