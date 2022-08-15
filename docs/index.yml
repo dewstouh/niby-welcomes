@@ -1,0 +1,8 @@
+- name: Ejemplos
+  files:
+    - name: Welcome
+      path: welcome.md
+- name: General
+  files:
+    - name: General
+      path: general.md

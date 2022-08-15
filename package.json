@@ -1,0 +1,23 @@
+{
+  "name": "niby-welcomes",
+  "version": "1.0.5",
+  "description": "Crea bienvenidas personalizables al estilo de otros bots conocidos como Koya, MEE6, Niby..",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "keywords": [
+    "bienvenidas",
+    "welcome",
+    "welcomes",
+    "niby",
+    "dewstouh",
+    "dew",
+    "niby-welcomes"
+  ],
+  "author": "dewstouh",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "canvas": "^2.9.3"
+  }
+}
